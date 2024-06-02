@@ -72,7 +72,7 @@ mvn clean install
 Ejecutar la aplicación:
 
 
-# Ejecución en Modo Consola
+## Ejecución en Modo Consola
 
 Para ejecutar la aplicación en modo consola y agregar datos a la base de datos:
 
