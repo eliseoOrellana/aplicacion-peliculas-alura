@@ -14,6 +14,8 @@ Screen Match es una aplicación web que permite a los usuarios buscar y consulta
 ![Pantalla detalles peliculas](img/detallesTemporadas.png)
 *Pantalla de detalles de las temporadas de la aplicación Screen Match.*
 
+---
+
 La aplicación tiene dos modos de operación principales:
 
 1. **Modo Consola**: Permite buscar y almacenar series en la base de datos a través de un menú interactivo en la consola.
