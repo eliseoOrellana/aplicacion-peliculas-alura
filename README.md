@@ -104,7 +104,7 @@ Copiar código
 mvn spring-boot:run
 Acceder a la aplicación:
 
-Abre tu navegador y navega a http://localhost:8080.
+Abre tu navegador y navega a http://127.0.0.1:5500 
 
 
 # Notas del Desarrollo
