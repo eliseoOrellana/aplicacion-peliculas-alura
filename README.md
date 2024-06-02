@@ -5,7 +5,7 @@
 Screen Match es una aplicación web que permite a los usuarios buscar y consultar información sobre películas utilizando la API de OMDB (Open Movie Database). Esta aplicación fue desarrollada como parte de un curso full stack, abarcando tanto el frontend como el backend.
 
 
-![Pantalla de Inicio](imag/aplicacionIndex.png)
+![Pantalla de Inicio](img/aplicacionIndex.png)
 *Pantalla de inicio de la aplicación Screen Match.*
 
 La aplicación tiene dos modos de operación principales:
