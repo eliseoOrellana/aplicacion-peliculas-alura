@@ -116,7 +116,7 @@ Consultas Entregadas (Delivered Queries): Utilizadas para pruebas y nuevas funci
 Patrones de Diseño: Como MVC y DTO para mantener un código limpio y estructurado.
 Conexión Frontend-Backend: Se proporcionó una experiencia completa para entender cómo se conectan ambas partes de una aplicación.
 
-###Contribuciones
+### Contribuciones
 
 Las contribuciones son bienvenidas. Si deseas contribuir, por favor, sigue estos pasos:
 
@@ -128,7 +128,7 @@ Abre un Pull Request.
 Licencia
 Este proyecto está licenciado bajo la Licencia MIT. Consulta el archivo LICENSE para más detalles.
 
-###Agradecimientos
+### Agradecimientos
 
 Gracias a todos los que participaron en este curso y contribuyeron a este proyecto. Espero que esta experiencia full stack haya sido enriquecedora y que sigas explorando y aprendiendo más sobre el desarrollo web.
 
