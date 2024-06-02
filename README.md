@@ -107,7 +107,7 @@ Acceder a la aplicación:
 Abre tu navegador y navega a http://127.0.0.1:5500 
 
 
-# Notas del Desarrollo
+## Notas del Desarrollo
 
 Durante el desarrollo de esta aplicación, se han utilizado varios conceptos avanzados y patrones de diseño:
 
@@ -115,7 +115,9 @@ Streams y Lambdas: Se han utilizado ampliamente para la manipulación y transfor
 Consultas Entregadas (Delivered Queries): Utilizadas para pruebas y nuevas funcionalidades.
 Patrones de Diseño: Como MVC y DTO para mantener un código limpio y estructurado.
 Conexión Frontend-Backend: Se proporcionó una experiencia completa para entender cómo se conectan ambas partes de una aplicación.
-Contribuciones
+
+###Contribuciones
+
 Las contribuciones son bienvenidas. Si deseas contribuir, por favor, sigue estos pasos:
 
 Haz un fork del repositorio.
@@ -126,7 +128,8 @@ Abre un Pull Request.
 Licencia
 Este proyecto está licenciado bajo la Licencia MIT. Consulta el archivo LICENSE para más detalles.
 
-Agradecimientos
+###Agradecimientos
+
 Gracias a todos los que participaron en este curso y contribuyeron a este proyecto. Espero que esta experiencia full stack haya sido enriquecedora y que sigas explorando y aprendiendo más sobre el desarrollo web.
 
 Nota: La aplicación no incluye HTML y CSS propios ya que estos fueron proporcionados previamente. Sin embargo, se recomienda revisar y entender cómo funciona el frontend para obtener una comprensión completa del proyecto.
